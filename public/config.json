@@ -1,0 +1,15 @@
+{
+  "apiUrl": "https://api.customer1.com/v1/",
+  "theme": "dark",
+  "language": "en-US",
+  "showAds": true,
+  "features": {
+    "enableChat": true,
+    "enablePayments": false,
+    "enableNotifications": true
+  },
+  "branding": {
+    "companyName": "Customer One",
+    "supportEmail": "support@customer1.com"
+  }
+}
